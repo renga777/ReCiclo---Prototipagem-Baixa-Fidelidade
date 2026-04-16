@@ -1,6 +1,3 @@
-# ReCiclo---Prototipagem-Baixa-Fidelidade
-MIRO
-
 # ReCiclo---Prototipagem-Baixa-Fidelidade (IHC & UX)
 Olavo Nicolas Queiroz de Paiva - RA: 4261213857
 Renganeschi Rodrigues Teles Aguiar - RA: 4261213936
